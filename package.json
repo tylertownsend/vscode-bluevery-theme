@@ -1,6 +1,7 @@
 {
     "name": "vsctb-bluevery-theme",
     "displayName": "vsctb-bluevery-theme",
+    "publisher": "tylertownsend",
     "description": "A example theme from the vsctb module",
     "version": "0.0.1",
     "engines": {
