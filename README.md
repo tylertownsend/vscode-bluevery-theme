@@ -1,13 +1,4 @@
-# README
-## This is the README for your extension "vsctb-bluevery-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Bluevery VSCode Theme 
+A bluevery theme in VSCode created using the [vsctb npm module](https://www.npmjs.com/package/vsctb). This color palette was modified from a template provided by vsctb.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Listen up, this theme was inspired by a little guy that lives in a blue world. All dark and all light everything he sees is just blue. Like him, inside and outside. Blue his workbench with a blue little window. And a blue terminal, and everything is blue for him. And him. And everybody around. 'Cause he aint got nobody to listen.
