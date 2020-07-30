@@ -1,6 +1,6 @@
 {
     "name": "vsctb-bluevery-theme",
-    "displayName": "vsctb-bluevery-theme",
+    "displayName": "Bluevery",
     "publisher": "tylertownsend",
     "description": "A example theme from the vsctb module",
     "version": "0.0.1",
@@ -16,12 +16,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "bluevery light",
+                "label": "Bluevery Light",
                 "uiTheme": "vs",
                 "path": "./themes/bluevery-light.json"
             },
             {
-                "label": "bluevery dark",
+                "label": "Bluevery Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/bluevery-dark.json"
             }
