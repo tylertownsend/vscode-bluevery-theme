@@ -1,4 +1,5 @@
-# Creating a VS Code Theme Builder Color Palette
-VS Code Theme Builder uses color palettes defined as small NPM modules that define 10 primary colors, 4 accent colors, and 8 shades. For primary and accent colors, the defined colors should not be too bright or too dark to allow a VS Code Theme Builder style to brighten or darken them several shades. The shades are of a single color typically used by styles as the foreground and background colors. They go from the darkest version to the brightest version of the color from 0 to 7.
+# Bluevery Color Palette
+## Overview
+A bluevery color palette for creating a theme in VSCode using the [vsctb npm module](https://www.npmjs.com/package/vsctb). This color palette was modified from a template provided by vsctb.
 
-After modifying a palette to your liking, it should be published as an NPM module for reuse with other styles though you can use it directly with your style in the VS Code Theme Builder without publishing. Before publishing, be sure to update your `package.json` to give your color palette package a name.
+Listen up, this theme was inspired by a little guy that lives in a blue world. All dark and all light everything he sees is just blue. Like him, inside and outside. Blue his workbench with a blue little window. And a blue terminal, and everything is blue for him. And him. And everybody around. 'Cause he aint got nobody to listen.
