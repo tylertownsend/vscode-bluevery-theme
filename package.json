@@ -1,0 +1,31 @@
+{
+    "name": "vsctb-bluevery-theme",
+    "displayName": "vsctb-bluevery-theme",
+    "description": "A example theme from the vsctb module",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "bluevery light",
+                "uiTheme": "vs",
+                "path": "./themes/bluevery-light.json"
+            },
+            {
+                "label": "bluevery dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bluevery-dark.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsctb": "^0.1.2",
+        "vsctb-sample-palette": "^1.0.0",
+        "vsctb-sample-style": "^1.0.0"
+    }
+}
